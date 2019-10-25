@@ -1,4 +1,5 @@
 % Object recognition using linear inference setup
+% Hello world!
 %%
 close all;clc;clear all;
 
